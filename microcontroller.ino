@@ -4,7 +4,8 @@
 #include "time.h" 
 #define FIREBASE_HOST "https://smart-house-f9020-default-rtdb.firebaseio.com/ " 
 #define FIREBASE_AUTH "8mkP29URBskQ00ewZNQITvsFvk6DAzaF5qvSFU9B" 
-#define LINE_TOKEN "H54xih3H9rg4ImU7L9m3yjbdFCYO2p3ji6LVtrxPpKH" #define WIFI_SSID "jangasivi" 
+#define LINE_TOKEN "H54xih3H9rg4ImU7L9m3yjbdFCYO2p3ji6LVtrxPpKH" 
+#define WIFI_SSID "jangasivi" 
 #define WIFI_PASSWORD "0614646485" 
 //....timer 
 const char* ntpServer = "pool.ntp.org"; 
